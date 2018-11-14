@@ -1,7 +1,7 @@
 # DAM18-technology-crashcourse
 # Technology Crash Course
 Analytics masterclass in Barcelona
-### Introductión to Data Analist MasterClass 2018
+### Introduction to Data Analyst MasterClass 2018
 **Schedule first class:**
 - AWS Services S3 Storage
 - Json format
